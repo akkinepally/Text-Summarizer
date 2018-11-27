@@ -1,7 +1,7 @@
 # Text-Summarizer
 
 <h3>Steps:<br>
-step 1:Fetch the article from web.</br>
+ <red>step 1 </red>:Fetch the article from web.</br>
 step 2:Parse the data using lxml to remove all the html tags. </br>
 step 3:Tokenize the paragraph to sentences.</br>
 step 4:Preprocess the sentences.</br>
